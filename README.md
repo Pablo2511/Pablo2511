@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pablo2511
-- 👀 Estou interessado em aprender cada dia mais sobre programação para ingressar nesse mercado de trabalho.
-- 🌱 Atualmente estou cursando o 1° período de Análise e Desenvolvimento de Sistemas, estudando Lógica de Programação.
+- 👀 Estou estudando e muito motivado em aprender cada dia mais sobre programação para ingressar nesse mercado de trabalho.
+- 🌱 Atualmente estou cursando o 1° período de Análise e Desenvolvimento de Sistemas, estudando Lógica de Programação, Algoritmos e Estrutura de Dados.
 - 💞️ Procuro futuramente me tornar um excelente Desenvolvedor e poder contribuir para a área de TI.
 - 📫 Como entrar em contato comigo: Me chame no Linkedin - https://www.linkedin.com/in/pablo-bernardes-da-silva-923411170/  
 
