@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pablo2511
 - 👀 Graduando em Análise e Desenvolvimento de Sistemas. 3/5
-- 🌱 Conhecimento em Lógica de Programação, HTML, CSS, JavaScript, Python e SQL.
+- 🌱 Conhecimento em Java, HTML, CSS, JavaScript, Python e SQL.
 - 💞️ Atualmente estudando Java! 💻
 - 📫 Contato: Linkedin - https://www.linkedin.com/in/pablo-bernardes
 
